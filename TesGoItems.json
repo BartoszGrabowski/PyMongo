@@ -1,0 +1,35 @@
+{"_id":{"$oid":"5d319c17f9881152a798e2ea"},"name":"tissues","price":"5.99","stock":"50"}
+{"_id":{"$oid":"5d319c17f9881152a798e2eb"},"name":"bread","price":"3.99","stock":"10"}
+{"_id":{"$oid":"5d319c17f9881152a798e2ec"},"name":"Evian water","price":"1","stock":"500"}
+{"_id":{"$oid":"5d319c17f9881152a798e2ed"},"name":"Coca Cola","price":"6.99","stock":"70"}
+{"_id":{"$oid":"5d319c17f9881152a798e2ee"},"name":"Pepsi Cola","price":"6.90","stock":"70"}
+{"_id":{"$oid":"5d319c17f9881152a798e2ef"},"name":"Keyboard","price":"15.99","stock":"20"}
+{"_id":{"$oid":"5d319c17f9881152a798e2f0"},"name":"USB mouse","price":"9.99","stock":"20"}
+{"_id":{"$oid":"5d319c17f9881152a798e2f1"},"name":"Samsung S8","price":"499.99","stock":"5"}
+{"_id":{"$oid":"5d319c17f9881152a798e2f2"},"name":"HP pro desk PC","price":"999.99","stock":"20"}
+{"_id":{"$oid":"5d319c17f9881152a798e2f3"},"name":"USB-C charger cable","price":"2.99","stock":"50"}
+{"_id":{"$oid":"5d319c17f9881152a798e2f4"},"name":"Mug","price":"4.99","stock":"199"}
+{"_id":{"$oid":"5d319c17f9881152a798e2f5"},"name":"AC unit","price":"99.99","stock":"34"}
+{"_id":{"$oid":"5d319c17f9881152a798e2f6"},"name":"Office chair","price":"39.99","stock":"30"}
+{"_id":{"$oid":"5d319c17f9881152a798e2f7"},"name":"Whiteboard","price":"49.99","stock":"20"}
+{"_id":{"$oid":"5d319c17f9881152a798e2f8"},"name":"Window","price":"199.99","stock":"1"}
+{"_id":{"$oid":"5d319c17f9881152a798e2f9"},"name":"Carpet","price":"9.99","stock":"333"}
+{"_id":{"$oid":"5d319c17f9881152a798e2fa"},"name":"sunglasses","price":"7.99","stock":"300"}
+{"_id":{"$oid":"5d319c17f9881152a798e2fb"},"name":"Buns","price":"0.99","stock":"3000"}
+{"_id":{"$oid":"5d319c17f9881152a798e2fc"},"name":"Chips","price":"1.99","stock":"3000"}
+{"_id":{"$oid":"5d319c17f9881152a798e2fd"},"name":"Sandwich","price":"2.99","stock":"10"}
+{"_id":{"$oid":"5d319c17f9881152a798e2fe"},"name":"cheese","price":"2.99","stock":"30"}
+{"_id":{"$oid":"5d319c17f9881152a798e2ff"},"name":"rice","price":"5.99","stock":"20"}
+{"_id":{"$oid":"5d319c17f9881152a798e300"},"name":"beef","price":"6.99","stock":"60"}
+{"_id":{"$oid":"5d319c17f9881152a798e301"},"name":"chicken leg","price":"1.99","stock":"20"}
+{"_id":{"$oid":"5d319c17f9881152a798e302"},"name":"chicken breast","price":"6.99","stock":"70"}
+{"_id":{"$oid":"5d319c17f9881152a798e303"},"name":"rabbit pate","price":"9.99","stock":"80"}
+{"_id":{"$oid":"5d319c17f9881152a798e304"},"name":"Nesquik cerials","price":"7.99","stock":"20"}
+{"_id":{"$oid":"5d319c17f9881152a798e305"},"name":"Cat litter box","price":"7.99","stock":"10"}
+{"_id":{"$oid":"5d319c17f9881152a798e306"},"name":"Dog leash","price":"3.99","stock":"50"}
+{"_id":{"$oid":"5d319c17f9881152a798e307"},"name":"Apples","price":"0.99","stock":"500"}
+{"_id":{"$oid":"5d319c17f9881152a798e308"},"name":"Oranges","price":"0.50","stock":"100"}
+{"_id":{"$oid":"5d319c17f9881152a798e309"},"name":"Potatos","price":"0.20","stock":"5000"}
+{"_id":{"$oid":"5d319c17f9881152a798e30a"},"name":"Tomatos","price":"0.30","stock":"20000"}
+{"_id":{"$oid":"5d319c17f9881152a798e30b"},"name":"Cucumber","price":"0.50","stock":"700"}
+{"_id":{"$oid":"5d319f523bbe3d01d7129d4c"},"name":"Sticky notes","price":1.99,"stock":100}

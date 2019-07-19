@@ -1,0 +1,11 @@
+{"_id":{"$oid":"5d31c72f13bed877efc0e972"},"name":"Bart","role":"Manager","salary":"20000"}
+{"_id":{"$oid":"5d31c72f13bed877efc0e973"},"name":"Ricky","role":"assistant manager","salary":"18000"}
+{"_id":{"$oid":"5d31c72f13bed877efc0e974"},"name":"Julian","role":"Shift manager","salary":"16000"}
+{"_id":{"$oid":"5d31c72f13bed877efc0e975"},"name":"Bubbles","role":"Cashier","salary":"14000"}
+{"_id":{"$oid":"5d31c72f13bed877efc0e976"},"name":"Cory","role":"Cashier","salary":"12000"}
+{"_id":{"$oid":"5d31c72f13bed877efc0e977"},"name":"Trevor","role":"Security guard","salary":"10000"}
+{"_id":{"$oid":"5d31c72f13bed877efc0e978"},"name":"Jacob","role":"Customer assistence","salary":"8000"}
+{"_id":{"$oid":"5d31c72f13bed877efc0e979"},"name":"Randy","role":"Shopfloor assistant","salary":"6000"}
+{"_id":{"$oid":"5d31c72f13bed877efc0e97a"},"name":"Jim","role":"Shopfloor assistant","salary":"4000"}
+{"_id":{"$oid":"5d31c72f13bed877efc0e97b"},"name":"J-Roc","role":"Shopfloor assistant","salary":"2000"}
+{"_id":{"$oid":"5d31d0702388e681c2cb67b2"},"name":"Trinity","role":"CEO","salary":"7331"}

@@ -1,0 +1,15 @@
+{"_id":{"$oid":"5d31cfee3c7fe064a293833e"},"Action":"getOneStaff","staff queried":"Jim"}
+{"_id":{"$oid":"5d31d0123c7fe064a2938340"},"Action":"insertStaff","name":"Trinity","role":"Shop supervisor","salary":"1337"}
+{"_id":{"$oid":"5d31d01a3c7fe064a2938341"},"Action":"getOneStaff","staff queried":"Trinity"}
+{"_id":{"$oid":"5d31d03f3c7fe064a2938342"},"Action":"removeItem","item removed":"Trinity"}
+{"_id":{"$oid":"5d31d0702388e681c2cb67b3"},"Action":"insertStaff","name":"Trinity","role":"Shop supervisor","salary":"1337"}
+{"_id":{"$oid":"5d31d0792388e681c2cb67b4"},"Action":"getOneStaff","staff queried":"Trinity"}
+{"_id":{"$oid":"5d31d0892388e681c2cb67b5"},"Action":"getOneItem","item searched":"Trinity"}
+{"_id":{"$oid":"5d31d0892388e681c2cb67b6"},"Action":"updateStaffSalary","name":"Trinity","new salary":"7331"}
+{"_id":{"$oid":"5d31d0e4d8e752162c7f6736"},"Action":"getOneStaff","staff queried":"Trinity"}
+{"_id":{"$oid":"5d31d0e4d8e752162c7f6737"},"Action":"updateStaffSalary","name":"Trinity","new salary":"7331"}
+{"_id":{"$oid":"5d31d0ead8e752162c7f6738"},"Action":"getOneStaff","staff queried":"Trinity"}
+{"_id":{"$oid":"5d31d0fcd8e752162c7f6739"},"Action":"getOneStaff","staff queried":"Trinity"}
+{"_id":{"$oid":"5d31d0fcd8e752162c7f673a"},"Action":"updateStaffRole","name":"Trinity","new role":"CEO"}
+{"_id":{"$oid":"5d31d101d8e752162c7f673b"},"Action":"getOneStaff","staff queried":"Trinity"}
+{"_id":{"$oid":"5d31d10dd8e752162c7f673c"},"Action":"removeItem","item removed":"Trinity"}
